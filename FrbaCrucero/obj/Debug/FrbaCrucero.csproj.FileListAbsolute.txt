@@ -1,0 +1,9 @@
+\\VBOXSVR\FrbaBus_1°C_2019\src\FrbaCrucero\bin\Debug\FrbaCrucero.exe.config
+C:\Sebastián\GDD\GestionDeDatosCruceros\FrbaCrucero\bin\Debug\FrbaCrucero.exe.config
+C:\Sebastián\GDD\GestionDeDatosCruceros\FrbaCrucero\bin\Debug\FrbaCrucero.exe
+C:\Sebastián\GDD\GestionDeDatosCruceros\FrbaCrucero\bin\Debug\FrbaCrucero.pdb
+C:\Sebastián\GDD\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.csprojResolveAssemblyReference.cache
+C:\Sebastián\GDD\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.Properties.Resources.resources
+C:\Sebastián\GDD\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.csproj.GenerateResource.Cache
+C:\Sebastián\GDD\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.exe
+C:\Sebastián\GDD\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.pdb
