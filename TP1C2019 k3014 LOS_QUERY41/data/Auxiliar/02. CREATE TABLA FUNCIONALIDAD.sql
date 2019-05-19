@@ -1,0 +1,6 @@
+USE [GD1C2019]
+CREATE TABLE [LOS_QUERY].[Funcionalidad](
+	ID int IDENTITY(1, 1) PRIMARY KEY,
+	NOMBRE varchar(255)
+) 
+GO
