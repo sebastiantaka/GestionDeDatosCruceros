@@ -7,3 +7,14 @@ C:\Sebastián\GDD\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.Prope
 C:\Sebastián\GDD\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.csproj.GenerateResource.Cache
 C:\Sebastián\GDD\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.exe
 C:\Sebastián\GDD\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.pdb
+C:\Users\Usuario\Desktop\tp gestion\GestionDeDatosCruceros\FrbaCrucero\bin\Debug\FrbaCrucero.exe.config
+C:\Users\Usuario\Desktop\tp gestion\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.exe
+C:\Users\Usuario\Desktop\tp gestion\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.pdb
+C:\Users\Usuario\Desktop\tp gestion\GestionDeDatosCruceros\FrbaCrucero\bin\Debug\FrbaCrucero.exe
+C:\Users\Usuario\Desktop\tp gestion\GestionDeDatosCruceros\FrbaCrucero\bin\Debug\FrbaCrucero.pdb
+C:\Users\Usuario\Desktop\tp gestion\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\tp gestion\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.Properties.Resources.resources
+C:\Users\Usuario\Desktop\tp gestion\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\tp gestion\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.Form1.resources
+C:\Users\Usuario\Desktop\tp gestion\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.ListadoEstadistico.Form1.resources
+C:\Users\Usuario\Desktop\tp gestion\GestionDeDatosCruceros\FrbaCrucero\obj\Debug\FrbaCrucero.ListadoEstadistico.Form2.resources

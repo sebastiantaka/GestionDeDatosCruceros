@@ -16,5 +16,12 @@ namespace FrbaCrucero
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ListadoEstadistico.Form1 FormuEstadistico = new ListadoEstadistico.Form1();
+
+            FormuEstadistico.ShowDialog();
+        }
     }
 }
